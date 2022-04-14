@@ -106,6 +106,7 @@ tt+=turnaround[i];
 
 cout << "\n\nAverage waiting time " << average/numOfProc;
 cout << "  Average turnaround time =" <<tt/numOfProc <<endl;
-
+    
+system("pause");
 return 0;
 }
